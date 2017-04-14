@@ -6,6 +6,6 @@ My General Assembly cohort titled "WDI-14" (Web Development Immersive 14) began 
 
 This portfolio possesses 3 projects:
 
-1. "Farmart" - (Angular, Rails, CSS, Bootstrap) 
-2. "Budget App" - (Javascript, JQuery, CSS, Bootstrap, HTML)
+1. "Farmart" - (Angular, Rails, CSS, Bootstrap)
+2. "Budget App" - (Javascript, JQuery, CSS, Bootstrap, HTML) 
 3. "Dice Game" - (Javascript, JQuery, CSS, Bootstrap, HTML))
